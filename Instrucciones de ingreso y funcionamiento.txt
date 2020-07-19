@@ -1,0 +1,21 @@
+*****************************Direccion web*****************************
+***************Usuario*************************************************
+http://www.semedico.superpan.xyz/
+***************Experto*************************************************
+http://www.semedico.superpan.xyz/admin
+
+INDICACIONES
+Usuario
+
+1. Copie en link y peguelo en el navegador de su preferencia
+2. Registrese, solo dando en la opcion no tengo cuenta y llene el formulario.
+3. Seleccione los sistemas que presenta y dele clic en consultar.
+
+
+
+Experto
+1. Ingrese al link y diligencie los espacios con las credenciales asignadas
+2. seleccione la operacion que sea realizar
+3. establece las relaciones entre sintomas y enfermedades.
+4. guarde y cargue la pagina de nuevo para visualizar los cambios.
+

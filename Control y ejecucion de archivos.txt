@@ -1,0 +1,7 @@
+instrucciones para ejecucion del aplicativo web y programacion
+Descomprime el archivo Zip
+NOTA
+para ejecutar de ante mano debe tener instalado
+1. Sublime text, cualquier version o en su defecto un programa semejante.
+2. Wampp o Xampp para ejecutar para visualizar de forma local la base datos.
+3. Conocimientos previos de programacion y gestion de base de datos.
